@@ -28,7 +28,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-webflux")
     implementation("dev.langchain4j:langchain4j:0.33.0")
 //    implementation("dev.langchain4j:langchain4j-easy-rag:0.33.0")
-    implementation("dev.langchain4j:langchain4j-ollama:0.33.0")
+    implementation("dev.langchain4j:langchain4j-ollama:0.34.0")
     implementation("dev.langchain4j:langchain4j-document-parser-apache-tika:0.33.0")
     implementation("dev.langchain4j:langchain4j-web-search-engine-tavily:0.34.0")
     implementation("dev.langchain4j:langchain4j-embeddings-all-minilm-l6-v2-q:0.33.0")
